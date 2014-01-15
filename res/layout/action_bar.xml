@@ -1,0 +1,18 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageView
+        android:id="@+id/actionBarLogo"
+        android:layout_width="250dp"
+        android:layout_height="30dp"
+        android:clickable="false"
+        android:focusable="false"
+        android:longClickable="false"
+        android:layout_marginLeft="60dp"
+        android:src="@drawable/miyoc"
+        android:contentDescription="@string/app_name" />
+
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string-array name="adobe_products">
+        <item>TOPS</item>
+        <item>BOTTOMS</item>
+        <item>DRESSES</item>
+        <item>ACCESSORIES</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MIYOC</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="register_button">Register</string>
+    <string name="login_button">SignIn</string>
+    <string name="home_button">Home</string>
+    <string name="more_info">More Information</string>
+    <string name="store">Our Store</string>
+    <string name="parcel_collect">Parcel Collection</string>
+    <string name="join_us">Join Us As Merchant</string>
+    <string name="About">About</string>
+    <string name="Member_info">Profile</string>
+    <string name="login_acc"><u>EARN POINT AND REDEEM ITEMS</u></string>
+    <string name="members">Members</string>
+    <string name="image">image</string>
+
+
+    <string name="title_activity_popup_menu">PopupMenu</string>
+    <string name="title_activity_hi">Hi</string>
+    <string name="title_activity_product">Product</string>
+    <string name="title_activity_tab_layout">TabLayout</string>
+
+    
+    <!-- Facebook events -->
+    <string name="toast_facebook_auth_success">Facebook authentication is successful</string>
+    <string name="toast_facebook_auth_fail">Error was occurred during Facebook authentication</string>
+    <string name="facebook_post_published">Posted to Facebook successfully</string>
+    <string name="facebook_post_publishing_failed">Post publishing was failed</string>
+    <string name="facebook_logged_out">You are logged out</string>
+    <!-- Twitter events -->
+    <string name="toast_twitter_auth_success">Twitter authentication is successful</string>
+    <string name="toast_twitter_auth_fail">Error was occurred during Twitter authentication</string>
+    <string name="twitter_post_published">Tweeted successfully</string>
+    <string name="twitter_post_publishing_failed">Tweet failed</string>
+    <string name="twitter_logged_out">You are logged out</string>
+    <!-- Text and labels -->
+    <string name="share_message_title">Message</string>
+    <string name="button_facebook_post">Post on Facebook</string>
+    <string name="button_facebook_post_image">Post Msg with image on Facebook</string>
+    <string name="button_twitter_post">Post on Twitter</string>
+    <string name="button_share_facebook">Share on Facebook</string>
+    <string name="button_share_twitter">Share on Twitter</string>
+    <string name="menu_logout">Logout</string>
+    
+</resources>

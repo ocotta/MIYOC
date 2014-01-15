@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+     
+  <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/myScrollView"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"> 
+   
+        <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="70dp" >
+
+    
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:text=
+    "ORCHARD ROAD"/>
+
+<TextView
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:text=
+    "Somerset MRT Station
+\n181 Orchard Road #05-12, S238896
+\nOpening hours 12NN - 9PM Daily"/>
+
+<TextView
+    android:id="@+id/textView3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:text=
+    "TWISTPOLKA • BUTTEREDGUN • RACKANDBONE • DUSTYPINK • EVDEVILINE / KAYLEY KATE • EXQWARDROBE • I LOVE CUPCAKES • STYLEMAFIA • SACRED SMOOCH • LOVELYSPREE • ASH IN CANS • BANGSHOTUDOWN • DIRTYBLING • LASTBUSRIDE • LOVEIEN19 • PEARLMILKTEEA • STATIC FUMES • WONDERLUSTWORLD • WONDERSTELLAR"/>
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:textStyle="bold"
+    android:textSize="20sp"
+    android:text=
+    "JURONG JCUBE"/>
+
+<TextView
+    android:id="@+id/textView5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:text=
+    "Jurong East MRT Station
+\n2 Jurong East Central 1 #04-14, S609731
+\nOpening hours 11AM - 10PM Daily"/>
+
+<TextView
+    android:id="@+id/textView4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:text=
+    "THE TINSEL RACK • THE CLOSET LOVER • THE STAGE WALK • FLYMETOPARIS • PEARLAVISH • DIDD • YOUNG HUNGRY FREE • THE DESIGN CLOSET • OHCHAMPAGNE • STYLELUSTGIRL • TWISTPOLKA • WONDERLUST WORLD • CLOTHES N HANGERS • SECONDSKIN • HELLOBLOGSHOP • KIKIKELI • TAGSTYLE • DUSTYPINK • RACKANDBONE • SEWUP JEANS • STATEMENTMUSE • I LOVE CUPCAKES • LOVELYSPREE • CATHY DOLL • CHERSAMME • DANDZELIA • GONELIKEMAGIC • IN HOUSE FASHION • LACE AND BUTTONS • LAPETITERUNWAY • LIZZIE-SHOP • LOVEIEN19 • MARCHARIES • MISSMONDAY2007 • OH, SUMMER! • PEARLMILKTEEA • SASSY DREAM • SO FROCKING GOOD • STATIC FUMES • STRUTTT • THEGORGEOUSLOOK • WONDERSTELLAR"/>
+
+      </LinearLayout>
+
+
+</ScrollView>

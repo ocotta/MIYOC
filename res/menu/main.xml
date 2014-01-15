@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/moreinfo"
+        android:showAsAction="always"
+        android:icon="@drawable/moreinfo_default"
+        android:title="@string/more_info" >
+        <menu>
+        <item
+        android:id="@+id/store"
+        android:showAsAction="always"
+        android:title="@string/store"/>
+    	<item
+        android:id="@+id/member"
+        android:showAsAction="always"
+        android:title="@string/members"/>
+    	<item
+        android:id="@+id/join_us"
+        android:showAsAction="always"
+        android:title="@string/join_us" />
+    	<item
+        android:id="@+id/about"
+        android:showAsAction="always"
+        android:title="@string/About"/>
+    	</menu>
+    </item>
+
+
+</menu>
