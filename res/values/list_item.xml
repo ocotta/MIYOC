@@ -4,7 +4,10 @@
         <item>TOPS</item>
         <item>BOTTOMS</item>
         <item>DRESSES</item>
-        <item>ACCESSORIES</item>
-
+		<item>FEATURED COLLECTION</item>
+		<item>WOMEN</item>
+		<item>MEN</item>
+		<item>ACCESSORIES</item>
+		<item>BRANDS</item>
     </string-array>
 </resources>

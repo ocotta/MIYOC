@@ -26,6 +26,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.assit.Util;
 import com.example.library.DatabaseHandler;
 import com.example.library.UserFunction;
 
@@ -267,7 +268,8 @@ public class ParcelCollection extends Activity {
                             // Creating user login session
                             // For testing i am string name, email as follow
                             // Use user real data
-                            session.createLoginSession("Android Hive", "anroidhive@gmail.com");
+//                            session.createLoginSession("Android Hive", "anroidhive@gmail.com");
+                            Util.createLoginSession(json_user, session);
                             
                             /**
                             *If JSON array details are stored in SQlite it launches the User Panel.

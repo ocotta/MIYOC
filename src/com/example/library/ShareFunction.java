@@ -19,10 +19,11 @@ public class ShareFunction {
 	    jsonParser = new JSONParser();
 	}
 	
-	public JSONObject relectDb(String  name, String platform) {
+	public JSONObject relectDb(String  name, String platform, String uid) {
 		List<NameValuePair> params = new ArrayList<NameValuePair>();
         params.add(new BasicNameValuePair("name", name));
         params.add(new BasicNameValuePair("platform", platform));
+        params.add(new BasicNameValuePair("uid", uid));
         params.add(new BasicNameValuePair("updatetime", new Date().toString()));
         JSONObject json = jsonParser.getJSONFromUrl(relectdbUrl, params);
         return json;
