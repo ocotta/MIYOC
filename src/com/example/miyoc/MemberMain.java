@@ -18,12 +18,14 @@ import com.assit.FacebookEventObserver;
 import com.assit.TwitterEventObserver;
 import com.example.library.DatabaseHandler;
 import com.example.library.UserFunction;
+import com.example.miyoc.vo.RedeemHistory;
 
 public class MemberMain extends Activity {
 	Button btnLogout;
 	Button changepas;
 	Button shareToFb;
 	Button shareToTwitter;
+	Button redeemHistory;
 
 	SessionManager session;
 	
@@ -48,6 +50,7 @@ public class MemberMain extends Activity {
 		btnLogout = (Button) findViewById(R.id.logout);
 		shareToFb = (Button) findViewById(R.id.shareTofb);
 		shareToTwitter = (Button)findViewById(R.id.shareToTwitter);
+		redeemHistory = (Button)findViewById(R.id.redeemHistory);
 
 		shareToFb.setOnClickListener(new OnClickListener() {
 
@@ -66,6 +69,16 @@ public class MemberMain extends Activity {
 			public void onClick(View v) {
 				Intent intent = new Intent(MemberMain.this, TwitterActivity.class);
 				intent.putExtra(Extra.POST_MESSAGE, Constants.TWITTER_SHARE_MESSAGE);
+				startActivity(intent);
+			}
+			
+		});
+		
+		redeemHistory.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intent = new Intent(MemberMain.this, RedemptionHistory.class);
 				startActivity(intent);
 			}
 			

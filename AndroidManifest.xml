@@ -95,6 +95,7 @@
         <activity android:name=".Redemption" />
         <activity android:name=".ClothInfoActivity" />
         <activity android:name=".Redemption1_TabHost" />
+        <activity android:name=".RedemptionHistory" />
     </application>
 
     <android.support.v4.view.ViewPager

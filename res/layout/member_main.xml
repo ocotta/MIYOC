@@ -101,4 +101,15 @@
             android:layout_below="@+id/shareTofb"
             android:layout_alignParentLeft="true"/>
 
+    <Button
+            android:id="@+id/redeemHistory"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:text="Redeem History"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:textSize="13sp"
+            android:textColor="#000000"
+            android:layout_below="@+id/shareToTwitter"
+            android:layout_alignParentLeft="true"/>
 </RelativeLayout>

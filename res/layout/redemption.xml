@@ -10,7 +10,7 @@
 	    android:gravity="center"
 	    android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:text="You are unable to redeem at this moment!" />
+        android:text="There are not any redemption at this moment!" />
     <ListView
         android:id="@+id/listview"
         android:layout_width="fill_parent"

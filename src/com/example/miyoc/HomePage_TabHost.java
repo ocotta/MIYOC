@@ -130,8 +130,6 @@ public class HomePage_TabHost extends Activity {
 				tabHost.setCurrentTab(6);
 		        break;
 		 
- 
-	
         
 	default:
         return super.onOptionsItemSelected(item);

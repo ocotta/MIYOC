@@ -14,6 +14,7 @@
         android:id="@+id/member"
         android:showAsAction="always"
         android:title="@string/members"/>
+    	
     	<item
         android:id="@+id/join_us"
         android:showAsAction="always"

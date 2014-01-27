@@ -59,15 +59,15 @@ public final class R {
     }
     public static final class id {
         public static final int CheckBox=0x7f090029;
-        public static final int Redemption=0x7f090036;
+        public static final int Redemption=0x7f090038;
         public static final int Submit_but=0x7f09001e;
-        public static final int about=0x7f09004d;
-        public static final int about1=0x7f090048;
+        public static final int about=0x7f09004f;
+        public static final int about1=0x7f09004a;
         public static final int aboutmiyoclogo=0x7f090001;
         public static final int actionBarLogo=0x7f090007;
         public static final int alert=0x7f090022;
         public static final int alertpass=0x7f09000d;
-        public static final int bktologin=0x7f09003f;
+        public static final int bktologin=0x7f090041;
         public static final int btcancel=0x7f09000f;
         public static final int btchangepass=0x7f09000e;
         public static final int button_post=0x7f090006;
@@ -75,9 +75,10 @@ public final class R {
         public static final int clothBrand=0x7f090019;
         public static final int clothImg=0x7f090017;
         public static final int clothName=0x7f090018;
-        public static final int confirmpas=0x7f09003a;
+        public static final int confirmpas=0x7f09003c;
         public static final int confirmpass=0x7f090012;
         public static final int currentpass=0x7f090010;
+        public static final int datetime=0x7f090036;
         public static final int details=0x7f090014;
         public static final int eBackLogin=0x7f090021;
         public static final int eLogin=0x7f090023;
@@ -87,54 +88,55 @@ public final class R {
         public static final int eSubject=0x7f09001c;
         public static final int eSubmitChangePass=0x7f090020;
         public static final int eTextto=0x7f09001b;
-        public static final int email=0x7f090039;
-        public static final int fname=0x7f09003b;
+        public static final int email=0x7f09003b;
+        public static final int fname=0x7f09003d;
         public static final int forgetpass=0x7f090027;
         public static final int imageView1=0x7f090008;
         public static final int imageView2=0x7f09002c;
         public static final int imageView3=0x7f09002b;
         public static final int imageView4=0x7f09002a;
         public static final int imageView5=0x7f09002d;
-        public static final int imgView=0x7f090037;
-        public static final int join_us=0x7f09004c;
-        public static final int join_us1=0x7f090047;
+        public static final int imgView=0x7f090039;
+        public static final int join_us=0x7f09004e;
+        public static final int join_us1=0x7f090049;
         public static final int listview=0x7f090016;
         public static final int lname=0x7f09002f;
-        public static final int login=0x7f090042;
+        public static final int login=0x7f090044;
         public static final int loginErrorMsg=0x7f090028;
         public static final int login_but=0x7f090025;
         public static final int logout=0x7f090031;
-        public static final int member=0x7f09004b;
-        public static final int member_info1=0x7f090045;
+        public static final int member=0x7f09004d;
+        public static final int member_info1=0x7f090047;
         public static final int message=0x7f090004;
-        public static final int moreinfo=0x7f090049;
-        public static final int moreinfo1=0x7f090044;
+        public static final int moreinfo=0x7f09004b;
+        public static final int moreinfo1=0x7f090046;
         public static final int myScrollView=0x7f090000;
-        public static final int myWebView=0x7f090043;
+        public static final int myWebView=0x7f090045;
         public static final int newpass=0x7f090011;
-        public static final int noredemption=0x7f090035;
+        public static final int noredemption=0x7f090037;
         public static final int noresult=0x7f090015;
         public static final int order_id=0x7f090013;
-        public static final int pager=0x7f09004e;
+        public static final int pager=0x7f090050;
         public static final int points=0x7f090030;
         public static final int price=0x7f09001a;
-        public static final int pword=0x7f09003c;
-        public static final int redeemBtn=0x7f090038;
-        public static final int regat=0x7f090041;
-        public static final int register=0x7f09003e;
+        public static final int pword=0x7f09003e;
+        public static final int redeemBtn=0x7f09003a;
+        public static final int redeemHistory=0x7f090034;
+        public static final int regat=0x7f090043;
+        public static final int register=0x7f090040;
         public static final int register_but=0x7f090026;
-        public static final int register_error=0x7f09003d;
+        public static final int register_error=0x7f09003f;
         public static final int shareToTwitter=0x7f090033;
         public static final int shareTofb=0x7f090032;
-        public static final int store=0x7f09004a;
-        public static final int store1=0x7f090046;
+        public static final int store=0x7f09004c;
+        public static final int store1=0x7f090048;
         public static final int textView1=0x7f090002;
         public static final int textView11=0x7f090009;
         public static final int textView2=0x7f09000b;
         public static final int textView3=0x7f09000c;
         public static final int textView4=0x7f09000a;
-        public static final int textView5=0x7f090034;
-        public static final int textView7=0x7f090040;
+        public static final int textView5=0x7f090035;
+        public static final int textView7=0x7f090042;
         public static final int textwelcome=0x7f09002e;
         public static final int title_message=0x7f090003;
     }
@@ -155,13 +157,15 @@ public final class R {
         public static final int main_page=0x7f03000d;
         public static final int member_main=0x7f03000e;
         public static final int our_store=0x7f03000f;
-        public static final int redemption=0x7f030010;
-        public static final int redemption1=0x7f030011;
-        public static final int redemption_item=0x7f030012;
-        public static final int register_page=0x7f030013;
-        public static final int registered=0x7f030014;
-        public static final int splash_screen=0x7f030015;
-        public static final int web_view=0x7f030016;
+        public static final int red_history_item=0x7f030010;
+        public static final int redemption=0x7f030011;
+        public static final int redemption1=0x7f030012;
+        public static final int redemption_history=0x7f030013;
+        public static final int redemption_item=0x7f030014;
+        public static final int register_page=0x7f030015;
+        public static final int registered=0x7f030016;
+        public static final int splash_screen=0x7f030017;
+        public static final int web_view=0x7f030018;
     }
     public static final class menu {
         public static final int login_main=0x7f080000;
@@ -169,47 +173,48 @@ public final class R {
     }
     public static final class string {
         public static final int About=0x7f06000a;
-        public static final int Member_info=0x7f06000b;
+        public static final int Member_info=0x7f06000c;
+        public static final int Redeem_History=0x7f06000b;
         public static final int action_settings=0x7f060001;
         public static final int app_name=0x7f060000;
-        public static final int button_facebook_post=0x7f06001e;
-        public static final int button_facebook_post_image=0x7f06001f;
-        public static final int button_share_facebook=0x7f060021;
-        public static final int button_share_twitter=0x7f060022;
-        public static final int button_twitter_post=0x7f060020;
-        public static final int facebook_logged_out=0x7f060017;
-        public static final int facebook_post_published=0x7f060015;
-        public static final int facebook_post_publishing_failed=0x7f060016;
+        public static final int button_facebook_post=0x7f06001f;
+        public static final int button_facebook_post_image=0x7f060020;
+        public static final int button_share_facebook=0x7f060022;
+        public static final int button_share_twitter=0x7f060023;
+        public static final int button_twitter_post=0x7f060021;
+        public static final int facebook_logged_out=0x7f060018;
+        public static final int facebook_post_published=0x7f060016;
+        public static final int facebook_post_publishing_failed=0x7f060017;
         public static final int hello_world=0x7f060002;
         public static final int home_button=0x7f060005;
-        public static final int image=0x7f06000e;
+        public static final int image=0x7f06000f;
         public static final int join_us=0x7f060009;
-        public static final int login_acc=0x7f06000c;
+        public static final int login_acc=0x7f06000d;
         public static final int login_button=0x7f060004;
-        public static final int members=0x7f06000d;
-        public static final int menu_logout=0x7f060023;
+        public static final int members=0x7f06000e;
+        public static final int menu_logout=0x7f060024;
         public static final int more_info=0x7f060006;
         public static final int parcel_collect=0x7f060008;
         public static final int register_button=0x7f060003;
         /**  Text and labels 
          */
-        public static final int share_message_title=0x7f06001d;
+        public static final int share_message_title=0x7f06001e;
         public static final int store=0x7f060007;
-        public static final int title_activity_hi=0x7f060010;
-        public static final int title_activity_popup_menu=0x7f06000f;
-        public static final int title_activity_product=0x7f060011;
-        public static final int title_activity_tab_layout=0x7f060012;
-        public static final int toast_facebook_auth_fail=0x7f060014;
+        public static final int title_activity_hi=0x7f060011;
+        public static final int title_activity_popup_menu=0x7f060010;
+        public static final int title_activity_product=0x7f060012;
+        public static final int title_activity_tab_layout=0x7f060013;
+        public static final int toast_facebook_auth_fail=0x7f060015;
         /**  Facebook events 
          */
-        public static final int toast_facebook_auth_success=0x7f060013;
-        public static final int toast_twitter_auth_fail=0x7f060019;
+        public static final int toast_facebook_auth_success=0x7f060014;
+        public static final int toast_twitter_auth_fail=0x7f06001a;
         /**  Twitter events 
          */
-        public static final int toast_twitter_auth_success=0x7f060018;
-        public static final int twitter_logged_out=0x7f06001c;
-        public static final int twitter_post_published=0x7f06001a;
-        public static final int twitter_post_publishing_failed=0x7f06001b;
+        public static final int toast_twitter_auth_success=0x7f060019;
+        public static final int twitter_logged_out=0x7f06001d;
+        public static final int twitter_post_published=0x7f06001b;
+        public static final int twitter_post_publishing_failed=0x7f06001c;
     }
     public static final class style {
         /** 
